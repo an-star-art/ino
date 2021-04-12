@@ -1,4 +1,5 @@
 # ino
-`javascript
+```javascript
 var idk = "idk";
-`
+```
+
